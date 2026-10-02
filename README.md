@@ -79,6 +79,11 @@ jupyter notebook
 
 Then select the notebook you want to open.
 
+## 📎 Project Materials
+
+* [📋 Trello Board](https://trello.com/b/pfCf2EWm/short-term-rental-market-analysis)
+* [📊 Project Presentation]([barcelona_str_performance_project3.pdf](https://github.com/user-attachments/files/32957729/barcelona_str_performance_project3.pdf))
+
 ## 📚 Data Sources
 
 * **Kaggle** — Airbnb listings and rental performance
