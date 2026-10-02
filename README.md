@@ -92,7 +92,7 @@ This analysis identifies associations, not causation. Findings are limited to th
 
 ## 👥 Project Information
 
-**Course:** Ironhack Data Analytics Bootcamp
-**Project:** Barcelona Short-Term Rental Performance
-**Team Berlin:** Jovana Zivkovic & Yurii Slobodchukov
+**Course:** Ironhack Data Analytics Bootcamp  
+**Project:** Barcelona Short-Term Rental Performance  
+**Team:** Team Berlin — Jovana Zivkovic & Yurii Slobodchukov
 
